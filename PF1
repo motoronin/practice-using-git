@@ -1,1 +1,4 @@
-Creating this file to practice SCM using Git.
+#Creating this file to practice SCM using Git.
+
+def add(x,y)
+  return x+y
